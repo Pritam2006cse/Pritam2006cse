@@ -10,7 +10,7 @@
 </p>
 
 # 💫 About Me:
-I am a Computer Science Engineer and I don’t just build "what works", I iterate until I find the most effective way possible. I am dedicated to creating unique projects that have a meaningful impact on how the world functions. I believe that technology reaches its full potential when it is rigorously tested and optimized for the real world.<br><br>My expertise lies at the intersection of AI, Machine Learning, Cloud Architecture, Full Stack Web Development but my curiosity doesn't stop at software. I am fascinated by cross-domain innovation—integrating CSE with Electronics, Biotechnology, Aerospace, and Mechanical systems to build unique tools that solve global challenges.
+I am a Computer Science Engineer and I don’t just build "what works", I iterate until I find the most effective way possible. I am dedicated to creating unique projects that have a meaningful impact on how the world functions. I believe that technology reaches its full potential when it is rigorously tested and optimized for the real world.<br><br>My expertise lies at the intersection of AI, Machine Learning, Cloud Architecture, Full Stack Web Development but my curiosity doesn't stop at software. I am fascinated by cross-domain innovation-integrating CSE with Electronics, Biotechnology, Aerospace, and Mechanical systems to build unique tools that solve global challenges.
 
 
 ## 🌐 Socials:
